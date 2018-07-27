@@ -1,0 +1,26 @@
+{
+  "name": "cli-start",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "cli": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soneway/cli-start.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "sjj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soneway/cli-start/issues"
+  },
+  "homepage": "https://github.com/soneway/cli-start#readme",
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
+}
